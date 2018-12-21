@@ -1,0 +1,15 @@
+[submodule "src/common/libs"]
+	path = src/common/libs
+	url = https://github.com/LidarPerception/common_lib
+[submodule "src/perception/libs/segmenters"]
+	path = src/perception/libs/segmenters
+	url = https://github.com/LidarPerception/segmenters_lib
+[submodule "src/perception/libs/roi_filters"]
+	path = src/perception/libs/roi_filters
+	url = https://github.com/LidarPerception/roi_filters_lib.git
+[submodule "src/perception/libs/object_builders"]
+	path = src/perception/libs/object_builders
+	url = https://github.com/LidarPerception/object_builders_lib.git
+[submodule "src/kitti_ros"]
+	path = src/kitti_ros
+	url = https://github.com/LidarPerception/kitti_ros.git

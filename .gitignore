@@ -1,0 +1,10 @@
+# catin-build generated files
+.catkin_tools/
+build/
+devel/
+logs/
+src/CMakeLists.txt
+
+# my clion-generated files
+src/.idea/
+src/cmake-build-debug/
