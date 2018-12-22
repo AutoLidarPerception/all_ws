@@ -13,3 +13,9 @@
 [submodule "src/kitti_ros"]
 	path = src/kitti_ros
 	url = https://github.com/LidarPerception/kitti_ros.git
+[submodule "src/perception/libs/feature_extractors"]
+	path = src/perception/libs/feature_extractors
+	url = https://github.com/LidarPerception/feature_extractors_lib.git
+[submodule "src/perception/libs/tracking"]
+	path = src/perception/libs/tracking
+	url = https://github.com/LidarPerception/tracking_lib.git
