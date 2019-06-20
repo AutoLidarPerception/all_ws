@@ -6,5 +6,5 @@ logs/
 src/CMakeLists.txt
 
 # my clion-generated files
-src/.idea/
-src/cmake-build-debug/
+.idea/
+cmake-build-debug/
