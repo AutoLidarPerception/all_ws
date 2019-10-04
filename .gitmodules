@@ -1,5 +1,5 @@
-[submodule "src/common/libs"]
-	path = src/common/libs
+[submodule "src/common"]
+	path = src/common
 	url = https://github.com/LidarPerception/common_lib
 [submodule "src/perception/libs/segmenters"]
 	path = src/perception/libs/segmenters
